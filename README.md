@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi, I'm Aashay Bhatt
+
+Engineer turned data analyst passionate about modeling, optimization, and intelligent systems. Currently working in public sector analytics and preparing for graduate study in Data Science and AI.
+
+🔧 Skills: Python, Pandas, NumPy, Matplotlib, Scikit-learn, Excel automation  
+📊 Interests: Public service impact, process improvement, machine learning, data visualization  
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/aashay-bhatt/)
 
 <!--
 **aashay-bhatt/aashay-bhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
